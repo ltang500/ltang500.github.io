@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.ece.cmu.edu/">Department of Electrical and Computer Engineering</a> * Carnegie Mellon University
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a first year PhD student in Electrical and Computer Engineering at Carnegie Mellon University, co-advised by Prof. Ken Mai and [Prof. Franz Franchetti](https://users.ece.cmu.edu/~franzf/).  My research interests are broadly in VLSI design and algorithms for applications in digital signal processing and machine learning.   
