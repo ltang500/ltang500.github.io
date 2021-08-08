@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.ece.cmu.edu/">Department of Electrical and Computer Engineering</a> * Carnegie Mellon University
+description: <a href="https://www.ece.cmu.edu/">Department of Electrical and Computer Engineering</a> • Carnegie Mellon University
 
 profile:
   align: right
