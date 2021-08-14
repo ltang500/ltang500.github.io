@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a second year PhD student in Electrical and Computer Engineering at Carnegie Mellon University, co-advised by Prof. Ken Mai and [Prof. Franz Franchetti](https://users.ece.cmu.edu/~franzf/).  My research interests are broadly in VLSI design and algorithms for applications in digital signal processing and machine learning.   
 
-Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad, I worked with Prof. Christoph Studer on novel methods for wireless localization. 
+Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked with Prof. Christoph Studer on novel methods for wireless localization. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
