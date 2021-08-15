@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-<iframe src="/CV.pdf" width="100%" height="500px">
+<iframe src="https://ltang500.github.io/_pdfs/CV.pdf" width="100%" height="500px"></iframe>
