@@ -1,9 +1,9 @@
 ---
 layout: none
-permalink: /cv/
+permalink: /_pdfs/
 title: cv
 description: 
 nav: true
 ---
 
-<a href="ltang500.github.io/_pdfs/CV_website.pdf" target="_blank">PDF.</a>
+<iframe src="/CV.pdf" width="100%" height="500px">
