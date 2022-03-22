@@ -6,7 +6,7 @@ description: <a href="https://www.ece.cmu.edu/">Department of Electrical and Com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_1.png
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
