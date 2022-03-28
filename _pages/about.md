@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic_crop.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>Hamerschlag Hall</p>
+    <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA 15213</p>
 
 news: false  # includes a list of news items
