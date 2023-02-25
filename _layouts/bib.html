@@ -73,11 +73,15 @@
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
       {% elsif entry.type == "unpublished" %}
-        <em>In {{entry.journal}}</em>
+        {% if entry.abbr == "arXiv" %}
+          <em>{{entry.journal}}</em>
+        {% else %}
+          <em>In {{entry.booktitle}}</em>
+        {% endif %}
       {% endif %}
-      {% if entry.year %}
+      <!-- {% if entry.year %}
         {{entry.year}}
-      {% endif %}
+      {% endif %} -->
       </div>
     {% endif %}
 
