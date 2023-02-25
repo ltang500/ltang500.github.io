@@ -176,7 +176,7 @@ scholar:
   sort_by: date
   order: descending
   type_order: [article, conference, inproceedings, proceedings, unpublished]
-  type_names: {unpublished: preprints, article: journal, inproceedings: conference}
+  type_names: {unpublished: preprints/abstracts, article: journal, inproceedings: conference}
 
 # -----------------------------------------------------------------------------
 # Optional Features
