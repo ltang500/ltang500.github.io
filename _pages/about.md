@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD student in Electrical and Computer Engineering at Carnegie Mellon University, co-advised by Prof. Ken Mai and [Prof. Franz Franchetti](https://users.ece.cmu.edu/~franzf/).  My research interests are broadly in VLSI design and algorithms for applications in digital signal processing and machine learning.   
+I am a third year PhD candidate in Electrical and Computer Engineering at Carnegie Mellon University, co-advised by Prof. Ken Mai and [Prof. Franz Franchetti](https://users.ece.cmu.edu/~franzf/).  My research interests are broadly in VLSI design and algorithms for applications in digital signal processing and machine learning.   
 
 Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked with Prof. Christoph Studer on novel methods for wireless localization. 
 
