@@ -4,6 +4,7 @@ permalink:
 title: cv
 description: 
 nav: true
+nav_order: 2
 # layout: cv
 # permalink: /cv/
 # title: cv
