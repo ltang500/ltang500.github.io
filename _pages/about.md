@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.ece.cmu.edu/">Department of Electrical and Computer Engineering</a> • Carnegie Mellon University
+subtitle: <a href="https://www.ece.cmu.edu/">Department of Electrical and Computer Engineering</a> • Carnegie Mellon University
 
 profile:
   align: right
@@ -21,10 +21,4 @@ I am a fourth year PhD candidate in Electrical and Computer Engineering at Carne
 
 My work currently focuses on new design paradigms and implementation of hardware accelerators for FFT-based applications.
 
-Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked with Prof. Christoph Studer on novel methods for wireless localization. 
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked on novel methods for wireless localization. 
