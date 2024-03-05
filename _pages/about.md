@@ -7,7 +7,7 @@ subtitle: <a href="https://www.ece.cmu.edu/">Department of Electrical and Comput
 profile:
   align: right
   image: prof_pic_crop.png
-  more_info:
+  more_info: >
     <p>Hamerschlag Hall</p>
     <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA 15213</p>
