@@ -5,8 +5,10 @@ title: publications
 description: 
 years: [2019]
 nav: true
+nav_order: 2
 ---
 
+<!-- _pages/publications.md -->
 <div class="publications">
 
 <!-- {% for y in page.years %} -->
