@@ -303,6 +303,11 @@ scholar:
   group_by: year
   group_order: descending
 
+  # sort_by: date
+  # order: descending
+  type_order: [article, conference, inproceedings, proceedings, unpublished]
+  type_names: {unpublished: preprints/abstracts, article: journal, inproceedings: conference}
+
 # Display different badges withs stats for your publications
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
@@ -361,11 +366,6 @@ imagemagick:
 #   Options: "auto", "eager", "lazy"
 #   See https://web.dev/browser-level-image-lazy-loading/ for more information.
 lazy_loading_images: true # enables lazy loading of images (recommended)
-
-  sort_by: date
-  order: descending
-  type_order: [article, conference, inproceedings, proceedings, unpublished]
-  type_names: {unpublished: preprints/abstracts, article: journal, inproceedings: conference}
 
 # -----------------------------------------------------------------------------
 # Optional Features
