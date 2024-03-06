@@ -180,7 +180,7 @@
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="https://users.ece.cmu.edu/~franzf/papers/{{ entry.pdf | url_param_escape }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+          <a href="https://users.ece.cmu.edu/~franzf/papers/{{ entry.pdf | split: '/' | slice: -1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
         {% else %}
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
