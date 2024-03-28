@@ -21,4 +21,4 @@ I am a fourth year PhD candidate in Electrical and Computer Engineering at Carne
 
 My work currently focuses on new design paradigms and implementation of hardware accelerators for FFT-based applications.
 
-Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked on novel methods for wireless localization. 
+Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked with Prof. Christoph Studer on novel methods for wireless localization. 
