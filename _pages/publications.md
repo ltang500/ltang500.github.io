@@ -13,7 +13,7 @@ nav_order: 1
 
 <!-- {% for y in page.years %} -->
   <!-- <h2 class="year">{{y}}</h2> -->
-  {% bibliography -f papers --group_by type %}
+  {% bibliography -f papers --group_by year %}
 <!-- {% endfor %} -->
 
 </div>
