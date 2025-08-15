@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a fourth year PhD candidate in Electrical and Computer Engineering at Carnegie Mellon University, co-advised by Prof. Ken Mai and [Prof. Franz Franchetti](https://users.ece.cmu.edu/~franzf/).  My research interests are broadly in VLSI design and algorithms for applications in scientific computing, digital signal processing, and machine learning.   
+I am a final year PhD candidate in Electrical and Computer Engineering at Carnegie Mellon University, co-advised by Prof. Ken Mai and [Prof. Franz Franchetti](https://users.ece.cmu.edu/~franzf/).  My research interests are broadly in hardware-software co-design, VLSI design, and domain-specific hardware/algorithm design for scientific computing, digital signal processing, and machine learning applications. 
 
-My work currently focuses on new design paradigms and implementation of hardware accelerators for FFT-based applications.
+My work currently focuses on new design paradigms and tools for FFT-based hardware accelerators in current and emerging high performance systems.
 
-Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked with Prof. Christoph Studer on novel methods for wireless localization. 
+Prior to CMU, I graduated from Cornell University with my BS in Electrical and Computer Engineering.  During my undergrad I worked on novel methods for wireless localization. 
