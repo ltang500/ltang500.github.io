@@ -5,7 +5,7 @@ title: publications
 description: 
 years: [2019]
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
@@ -13,7 +13,8 @@ nav_order: 2
 
 <!-- {% for y in page.years %} -->
   <!-- <h2 class="year">{{y}}</h2> -->
-  {% bibliography -f papers --group_by year %}
+  {% bibliography %}
+  <!-- {% bibliography -f papers --group_by year %} -->
 <!-- {% endfor %} -->
 
 </div>
