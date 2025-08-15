@@ -302,10 +302,10 @@ scholar:
   group_by: year
   group_order: descending
 
-  sort_by: date
-  order: descending
-  type_order: [article, conference, inproceedings, proceedings, unpublished]
-  type_names: {unpublished: preprints/abstracts, article: journal, inproceedings: conference}
+  # sort_by: date
+  # order: descending
+  # type_order: [article, conference, inproceedings, proceedings, unpublished]
+  # type_names: {unpublished: preprints/abstracts, article: journal, inproceedings: conference}
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
