@@ -6,11 +6,10 @@ subtitle: <a href="https://www.ece.cmu.edu/">Department of Electrical and Comput
 
 profile:
   align: right
-  image: prof_pic_crop.png
+  image: pic.png
   more_info: >
     <p>Hamerschlag Hall</p>
-    <p>Carnegie Mellon University</p>
-    <p>Pittsburgh, PA 15213</p>
+
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
