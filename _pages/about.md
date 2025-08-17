@@ -8,7 +8,7 @@ profile:
   align: right
   image: pic.jpg
   more_info: >
-    <p>Hamerschlag Hall</p>
+    <p>Florence, Italy</p>
 
 
 news: false  # includes a list of news items
