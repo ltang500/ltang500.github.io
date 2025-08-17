@@ -6,7 +6,7 @@ subtitle: <a href="https://www.ece.cmu.edu/">Department of Electrical and Comput
 
 profile:
   align: right
-  image: pic.png
+  image: pic.jpg
   more_info: >
     <p>Hamerschlag Hall</p>
 
